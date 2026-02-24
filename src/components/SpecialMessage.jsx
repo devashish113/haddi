@@ -86,8 +86,9 @@ const SpecialMessage = () => {
                             overflowWrap: 'break-word',
                         }}
                     >
-                        "You are my chaos, my comfort, and my favorite notification.
-                        Every day with you feels like unwrapping the best gift life could ever give me."
+                        "Haddu, 
+                        You are my happiness, my comfort, and my favorite notification.
+                        Even a small moment with you feels like unwrapping the best gift life could ever give me."
                     </p>
 
                     <p
@@ -115,8 +116,8 @@ const SpecialMessage = () => {
                             overflowWrap: 'break-word',
                         }}
                     >
-                        Here's to another year of us — of messy mornings, late-night talks,
-                        silly jokes, and love that only grows stronger. Happy Birthday, my love. 🎂💖
+                        Here's to another year of us — of messy mornings, late-night chats,
+                        silly conversations, and love that only grows stronger. Happy Birthday, my love, my hddu, my forever best friend, my everything. 🎂💖
                     </p>
                 </motion.div>
 
